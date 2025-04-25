@@ -1,9 +1,5 @@
+Welcome to my github account hope you enjoy and inspire yourself a little. :)
 
-<div align="left">
-   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100"/>
-   </a>
-   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="100"/>
-</div>
 
 <div align="center">  
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ahyslaNascimento&show_icons=true&count_private=true&hide_border=true&title_color=ff1493&icon_color=ff1493&text_color=ff1493&bg_color=1C1C1C" alt="Ahysla github stats"/> 
