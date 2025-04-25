@@ -1,6 +1,4 @@
-Olá!  Eu sou a Ahysla, uma entusiasta do desenvolvimento web, atualmente focada em aprimorar minhas habilidades tanto no front-end quanto no back-end. Minha jornada no mundo da programação começou com HTML, CSS, Bootstrap e JavaScript fazendo um curso de desenvolvedor full stack no Senac Tech.
 
-Atualmente estou estudando:
 <div align="left">
    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100"/>
    </a>
